@@ -34,9 +34,8 @@ hr{
 	border-bottom: 1px solid rgba(0,0,0,0,2);
 }
 
-navbar{
+.navbar{
 	background-color: black;
-	position: fixed;
 	color:#FF00AE;
 	z-index: 1;
 }
