@@ -34,14 +34,6 @@ hr{
 	border-bottom: 1px solid rgba(0,0,0,0,2);
 }
 
-.navbar-inverse .navbar-brand{
-	color:#FF00AE;
-}
-
-.navbar-inverse .navbar-nav>li>a{
-	color:#FF00AE;
-}
-
 .btn-default{
 	color:#FF00AE;
 	background-color: rgba(36, 0, 13, 0.6);
