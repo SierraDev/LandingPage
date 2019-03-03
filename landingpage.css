@@ -16,11 +16,8 @@ html{
 
 body{
 	font-family: VT323;
-	background: url("https://images.unsplash.com/photo-1518787023485-fd1ece7987bb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9");
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-color: rgba(127, 90, 145, 0.94);
 	color: white;
-	background-color: #282e38;
 }
 
 h1{
@@ -89,7 +86,7 @@ hr{
   background-image: url(http://source.unsplash.com/8WR86Z_mLms); 
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(http://source.unsplash.com/HtlXj6wpBdc);
+  background-image: url(http://source.unsplash.com/uGVqeh27EHE);
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
@@ -97,7 +94,7 @@ hr{
   animation-delay: 20s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(http://source.unsplash.com/DOphQiBRe5U);
+  background-image: url(http://source.unsplash.com/MOM0aPcKWhQ);
   animation-delay: 30s; 
 }
 .slideshow li:nth-child(5) { 
