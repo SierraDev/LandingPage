@@ -36,6 +36,9 @@ hr{
 
 .navbar-inverse .navbar-brand{
 	color:#FF00AE;
+	z-index: 1;
+    	position: relative;
+    	text-align: center;
 }
 
 
