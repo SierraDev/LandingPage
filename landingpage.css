@@ -37,16 +37,12 @@ hr{
 navbar{
 	background-color: black;
 	position: fixed;
-}
-
-.navbar-inverse .navbar-brand{
 	color:#FF00AE;
+	z-index: 1;
 }
-
 
 .navbar-inverse .navbar-nav>li>a{
 	color:#FF00AE;
-	z-index: 1;
 }
 
 .btn-default{
