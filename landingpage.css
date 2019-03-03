@@ -41,6 +41,7 @@ hr{
 
 .navbar-inverse .navbar-nav>li>a{
 	color:#FF00AE;
+	background-color: black;
 	z-index: 1;
 }
 
