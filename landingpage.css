@@ -42,6 +42,7 @@ hr{
 
 .btn-default:hover {
 	background-color: rgba(49, 0, 0, 1);
+	color:#fff;
 }
 
 .fab{
