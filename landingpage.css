@@ -4,9 +4,8 @@
     	text-align: center;
     	padding-top: 40vh;
 	animation: glow 1s ease-in infinite;
-	color: #fff;
 	font-family: VT323;
-	background-color: #3a052d;
+	color: #fff;
 }
 
 @keyframes glow {
@@ -18,7 +17,11 @@
   }
 }
 
-#content:after {
+body {
+	background-color: #3a052d;
+}
+
+body:after {
   animation: grain 8s steps(10) infinite;
   background-image: url("noise.png");
   content: "";
