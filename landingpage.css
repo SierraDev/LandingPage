@@ -40,6 +40,10 @@ hr{
 	animation: glow 1s ease-in infinite;
 }
 
+.btn-default:hover {
+	background-color: rgba(49, 0, 0, 1);
+}
+
 .fab{
 	font-size:25px;
 }
