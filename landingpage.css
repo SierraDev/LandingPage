@@ -76,22 +76,22 @@ hr{
 }
 
 .slideshow li:nth-child(1) { 
-  background-image: url(http://source.unsplash.com/8WR86Z_mLms); 
+  background-image: url('slideshowpics/1stpic.jpg'); 
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(http://source.unsplash.com/croTkGSyM64);
+  background-image: url('slideshowpics/2ndpic.jpg');
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(http://source.unsplash.com/uCZFdspF_3c);
+  background-image: url('slideshowpics/3rdpic.jpg');
   animation-delay: 20s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(http://source.unsplash.com/T1YL4k6v4SU);
+  background-image: url('slideshowpics/4thpic.jpg');
   animation-delay: 30s; 
 }
 .slideshow li:nth-child(5) { 
-  background-image: url(http://source.unsplash.com/yb7eXISXZec);
+  background-image: url('slideshowpics/5thpic.jpg');
   animation-delay: 40s; 
 }
 
