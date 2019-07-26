@@ -1,5 +1,6 @@
 # LandingPage
 A landing page created with HTML, CSS, and Bootstrap.
+https://sierradev.github.io/LandingPage/
 
 # Changes:
 * Added glow effect to text - 3/3/2019
